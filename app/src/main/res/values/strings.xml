@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCodeSample</string>
+    <string name="qrcode">掃描qrcode</string>
+</resources>
